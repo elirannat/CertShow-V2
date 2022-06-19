@@ -1,0 +1,170 @@
+{
+  "pictures": [
+    {
+      "url": "/client/public/assets/images/1.jpg",
+      "alt": "Microsoft specialist",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/2.jpg",
+      "alt": "MCP",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/3.jpg",
+      "alt": "MCSA",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/4.jpg",
+      "alt": "MCSE-Private-cloud",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/5.jpg",
+      "alt": "MCSE-Server-infrastructure",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/CompTIA A+ ce certificate 6.jpg",
+      "alt": "A+",
+      "credits": "CompTIA",
+      "price": 232
+    },
+    {
+      "url": "/client/public/assets/images/7.jpg",
+      "alt": "Microsoft specialist",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/8.jpg",
+      "alt": "MCSE-Messaging",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/9.jpg",
+      "alt": "MCSE-Productivity",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/10.jpg",
+      "alt": "MCSE-Cloud-platform&infrastructure",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/Cisco CCENT 11.jpg",
+      "alt": "CCENT",
+      "credits": "Cisco",
+      "price": 165
+    },
+    {
+      "url": "/client/public/assets/images/Cisco CCNA 12.jpg",
+      "alt": "CCNA",
+      "credits": "Cisco",
+      "price": 165
+    },
+    {
+      "url": "/client/public/assets/images/13.jpg",
+      "alt": "MCSA-WS2K16",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/Checkpoint CCSA_14.jpg",
+      "alt": "CCSA",
+      "credits": "Checkpoint",
+      "price": 250
+    },
+    {
+      "url": "/client/public/assets/images/Checkpoint CCSE_15.jpg",
+      "alt": "CCSE",
+      "credits": "Checkpoint",
+      "price": 250
+    },
+    {
+      "url": "/client/public/assets/images/Office 365_16.jpg",
+      "alt": "MCSA-Office-2K16",
+      "credits": "Microsoft",
+      "price": 125
+    },
+    {
+      "url": "/client/public/assets/images/LPIC-1 Cretification 17.jpg",
+      "alt": "LPIC-1",
+      "credits": "Linux Professional Institute",
+      "price": 200
+    },
+    {
+      "url": "/client/public/assets/images/VMware _18.jpg",
+      "alt": "VCP6-DCV",
+      "credits": "VMware",
+      "price": 250
+    },
+    {
+      "url": "/client/public/assets/images/AWS Certified SysOps Administrator - Associate certificate_19.jpg",
+      "alt": "SysOps-Admin",
+      "credits": "AWS",
+      "price": 150
+    }
+  ],
+  "users": [
+    {
+      "nameF": "Test",
+      "nameL": "User",
+      "address": {
+        "state": "USA",
+        "country": "New York",
+        "city": "Buffalo",
+        "street": "Sample street",
+        "houseNumber": "108",
+        "zip": 562145
+      },
+      "phone": "050-5096995",
+      "email": "test@pc-solutions.co.il",
+      "password": "Tt2345#",
+      "isBusiness": false
+    },
+    {
+      "nameF": "Business",
+      "nameL": "User",
+      "address": {
+        "state": "USA",
+        "country": "Nevada",
+        "city": "Las vegas",
+        "street": "S Las Vegas Blvd",
+        "houseNumber": "3600",
+        "zip": 89109
+      },
+      "phone": "058-9876667",
+      "email": "business@pc-solutions.co.il",
+      "password": "Bb4321@",
+      "isBusiness": true,
+      "isAdmin": false
+    },
+    {
+      "nameF": "Eliran",
+      "nameL": "Natan",
+      "address": {
+        "state": "Gosh-Dan",
+        "country": "Israel",
+        "city": "Petah Tikva",
+        "street": "Theresa Kugelman",
+        "houseNumber": "5",
+        "zip": 4972223
+      },
+      "phone": "050-9999339",
+      "email": "admin@pc-solutions.co.il",
+      "password": "Aa1234!",
+      "isBusiness": true,
+      "isAdmin": true
+    }
+  ]
+}

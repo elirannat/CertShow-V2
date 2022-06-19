@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#slider-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+  height: 768px;
+  border: solid 2px black;
+}
+
+#cert-by {
+  text-align: center;
+}
+
+#about-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+main {
+  min-height: 87vh;
+}
+
+.h50 {
+  min-height: 50vh;
+}
+
+#error404-page h2 {
+  text-align: center;
+}
+
+#error404-page img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+#error404-page #return-to-home-page-link {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
